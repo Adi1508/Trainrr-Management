@@ -1,0 +1,55 @@
+body
+{
+	font-family:QuickSand;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+	margin: 0 0 100px; /* bottom = footer height */
+}
+
+#signup
+{
+	flex: 1 0 auto;
+	margin:auto;
+	height:auto;
+	width:450px;
+	overflow:hidden;
+	position:relative;
+}
+
+#header
+{
+	height:auto;
+	background-color:teal;
+}
+
+h1
+{
+	text-align:center;
+	color:white;
+}
+#name
+{
+	margin-top:130px;
+}
+
+#submit
+{
+	height:auto;
+	padding:20px;
+	margin-left:130px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+	background-color:teal;
+}

@@ -1,0 +1,83 @@
+body
+{
+	color:black;
+	display: flex;
+    flex-direction: column;
+	margin: 0 0 100px; 
+	font-family:QuickSand;
+	font-size:25px;
+}
+#header
+{
+	background-color:teal;
+	height:auto;
+	margin-top:-25px;
+	color:white;
+}
+h1
+{
+	text-align:center;
+	font-family:QuickSand;
+}
+#content
+{
+	width:1000px;
+	margin:auto;
+	margin-top:70px;
+}
+#input1
+{
+	float:horizontal;
+}
+#input2
+{
+	float:horizontal;
+}
+#input3
+{
+	float:horizontal;
+}
+#input4
+{
+	float:horizontal;
+}
+#ip1
+{
+	float:left;
+}
+#name
+{
+	float:horizontal;
+}
+#fname
+{
+	float:horizontal;
+}
+#gender
+{
+	float:left;
+	width:500px;
+	padding-bottom:20px;
+}
+#addr
+{
+	width:450px;
+}
+#but
+{
+	margin-top:50px;
+	text-align:center;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+	background-color:teal;
+}

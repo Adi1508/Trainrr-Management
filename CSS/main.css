@@ -1,0 +1,68 @@
+
+#header
+{
+	background-color:#BFD4D9;
+  height: auto;
+	margin-top: -25px;
+	overflow: hidden;
+  padding-bottom: 30px;
+
+}
+#headerdata
+{
+	width:1200px;
+	margin:auto;
+}
+
+h1
+{
+	text-align: left;
+	padding-top: 25px;
+}
+
+#buttons
+{
+	width:500px;
+	overflow: hidden;
+	height: auto;
+}
+
+#tab
+{
+	width:300px;
+  color:white;
+	height: auto;
+	float: left;
+	margin-top: -100px;
+	margin-left: 870px;
+}
+#login
+{
+	margin:auto;
+	margin-left: 20px;
+	overflow:auto;
+	padding-top: 15px;
+}
+
+#signup
+{
+	float: left;
+	overflow:auto;
+	margin-left:10px;
+  padding-bottom: 10px;
+}
+
+#menu
+{
+	margin-top: 50px;
+	height: auto;
+	background-color: #17A697;
+	color: white;
+	overflow: hidden;
+  padding-bottom: :10px;
+  overflow: hidden;
+}
+.resizedTextbox
+{
+	width:100px;
+}
